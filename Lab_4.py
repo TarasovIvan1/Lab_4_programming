@@ -1,3 +1,5 @@
+Добавочка
+
 ''Лабораторная №4''
 import pygame
 from pygame.draw import *
